@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../images/drums.jpg");
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -19,7 +19,7 @@ body {
 h1 {
   color: var(--branca);
   margin-bottom: 20px;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .teclado {
